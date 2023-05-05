@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/16081753/236452646-3cd19b1f-ccaa-4ec6-9959-22373363e9a3.png" width="300" height="300"  />
-</p>
-
 <h2 align="center"> Team Lead Software Developer - Educator - Content Writer </h2>
 
 # Hello!
