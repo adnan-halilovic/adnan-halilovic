@@ -10,5 +10,5 @@ I am a software developer with over 13 years of expertise in a variety of fields
 <h2 align="center"> My skills </h2>
 
 <p align="center">
-<img src=https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nodejs,prisma,mysql,bootstrap,redux,reactivex,wordpress)](https://skillicons.dev)" />
+<img src=https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nodejs,prisma,mysql,bootstrap,redux,reactivex,wordpress,)](https://skillicons.dev)" />
 </p>
