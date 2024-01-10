@@ -4,7 +4,7 @@
 
 I am Adnan Halilović, the man behind [the website](https://blog.adnanhalilovic.com/) and [channel(s)](https://www.youtube.com/@adnanhalilovicdev) that you are currently reading and viewing!
 
-I am a software developer with over 13 years of expertise in a variety of fields.
+I am a software developer with over 14 years of expertise in a variety of fields.
 
 
 <h2 align="center"> My skills </h2>
